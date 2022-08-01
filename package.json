@@ -1,0 +1,12 @@
+{
+  "name": "websimpletemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass .\\src\\css\\scss\\main.scss .\\src\\css\\style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

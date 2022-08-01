@@ -1,0 +1,3 @@
+
+AUTO COMPILE SCSS FILES TO CSS FILES :
+npm run scss
